@@ -31,7 +31,7 @@
   "require": {
     "php": ">=5.4",
     "symfony/finder": ">=2.4",
-    "voryx/thruway": "~0.4",
+    "voryx/thruway": "~0.5",
     "jms/serializer-bundle": "^1.1.0",
     "react/child-process": "~0.4"
   },
